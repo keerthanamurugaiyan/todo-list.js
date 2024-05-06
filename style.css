@@ -1,0 +1,9 @@
+.done{
+    color:white;
+    background-color: rgb(54, 139, 132);
+
+}
+
+li:not(.done):hover {
+    background-color: rgba(82, 87, 87, 0.521);
+}
